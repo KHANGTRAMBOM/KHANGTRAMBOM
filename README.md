@@ -41,7 +41,7 @@ I am currently a recent graduate in Information Technology from An Giang Univers
                src="https://github-readme-stats.vercel.app/api/pin/?username=khangtrambom&repo=Data-Structure-And-Algorithms-Python-&theme=dracula&hide_border=true&border_radius=10" />
         </a>
         <br />
-        <b>Data Structure & Algorithms</b>
+        <b>Cấu Trúc Dữ Liệu & Giải Thuật</b>
       </td>
       <td align="center" width="50%" style="border: none; padding: 5px;">
         <a href="https://github.com/khangtrambom/KLTN">
@@ -59,7 +59,7 @@ I am currently a recent graduate in Information Technology from An Giang Univers
                src="https://github-readme-stats.vercel.app/api/pin/?username=KHANGTRAMBOM&repo=LTQL&theme=dracula&hide_border=true&border_radius=10" />
         </a>
         <br />
-        <b>LTQL</b>
+        <b>Lập Trình Quản Lý</b>
       </td>
       <td align="center" width="50%" style="border: none; padding: 5px;">
         <a href="https://github.com/KHANGTRAMBOM/ASP.NET">
