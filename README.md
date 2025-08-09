@@ -36,9 +36,9 @@ I am currently a recent graduate in Information Technology from An Giang Univers
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" width="50%" style="border: none; padding: 5px;">
-        <a href="https://github.com/khangtrambom/DSA">
+        <a href="https://github.com/khangtrambom/Data-Structure-And-Algorithms-Python-">
           <img alt="Data Structure & Algorithms"
-               src="https://github-readme-stats.vercel.app/api/pin/?username=khangtrambom&repo=DSA&theme=dracula&hide_border=true&border_radius=10" />
+               src="https://github-readme-stats.vercel.app/api/pin/?username=khangtrambom&repo=Data-Structure-And-Algorithms-Python-&theme=dracula&hide_border=true&border_radius=10" />
         </a>
         <br />
         <b>Cấu Trúc Dữ Liệu & Giải Thuật</b>
