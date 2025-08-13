@@ -32,6 +32,7 @@ I am currently a recent graduate in Information Technology from An Giang Univers
 
 ## 🔥 Dự án nổi bật
 
+
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
@@ -49,10 +50,18 @@ I am currently a recent graduate in Information Technology from An Giang Univers
                src="https://github-readme-stats.vercel.app/api/pin/?username=khangtrambom&repo=KLTN&theme=dracula&hide_border=true&border_radius=10" />
         </a>
         <br />
-        <b>Khóa luận tốt nghiệp</b>
+        <b>Khóa Luận Tốt Nghiệp</b>
       </td>
     </tr>
     <tr>
+      <td align="center" width="50%" style="border: none; padding: 5px;">
+        <a href="https://github.com/KHANGTRAMBOM/OOP-Python">
+          <img alt="OOP Python"
+               src="https://github-readme-stats.vercel.app/api/pin/?username=KHANGTRAMBOM&repo=OOP-Python&theme=dracula&hide_border=true&border_radius=10" />
+        </a>
+        <br />
+        <b>Lập Trình Hướng Đối Tượng/b>
+      </td>
       <td align="center" width="50%" style="border: none; padding: 5px;">
         <a href="https://github.com/KHANGTRAMBOM/LTQL">
           <img alt="Lập Trình Quản Lý"
@@ -61,6 +70,8 @@ I am currently a recent graduate in Information Technology from An Giang Univers
         <br />
         <b>Lập Trình Quản Lý</b>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%" style="border: none; padding: 5px;">
         <a href="https://github.com/KHANGTRAMBOM/ASP.NET">
           <img alt="ASP.NET"
@@ -69,8 +80,6 @@ I am currently a recent graduate in Information Technology from An Giang Univers
         <br />
         <b>ASP.NET</b>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="50%" style="border: none; padding: 5px;">
         <a href="https://github.com/KHANGTRAMBOM/Do-an-Java">
           <img alt="Lập Trình Java"
@@ -79,14 +88,7 @@ I am currently a recent graduate in Information Technology from An Giang Univers
         <br />
         <b>Đồ án Java</b>
       </td>
-      <td align="center" width="50%" style="border: none; padding: 5px;">
-        <a href="https://github.com/KHANGTRAMBOM/Do-an-C-">
-          <img alt="Đồ án C#"
-               src="https://github-readme-stats.vercel.app/api/pin/?username=KHANGTRAMBOM&repo=Do-an-C-&theme=dracula&hide_border=true&border_radius=10" />
-        </a>
-        <br />
-        <b>Đồ án C#</b>
-      </td>
     </tr>
   </table>
 </div>
+
