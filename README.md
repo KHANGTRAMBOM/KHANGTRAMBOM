@@ -60,7 +60,7 @@ I am currently a recent graduate in Information Technology from An Giang Univers
                src="https://github-readme-stats.vercel.app/api/pin/?username=KHANGTRAMBOM&repo=OOP-Python&theme=dracula&hide_border=true&border_radius=10" />
         </a>
         <br />
-        <b>Lập Trình Hướng Đối Tượng/b>
+        <b>Lập Trình Hướng Đối Tượng</b>
       </td>
       <td align="center" width="50%" style="border: none; padding: 5px;">
         <a href="https://github.com/KHANGTRAMBOM/LTQL">
