@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Trong Khang
 **`Hope I Can Be An AI Engineer`**
 
-I am currently a recent graduate in Information Technology from An Giang University. I used to be passionate about the Java programming language, but life led me to Python. Now, I aspire to become an AI Engineer or...
+I am currently a recent graduate in Information Technology from An Giang University. I used to be passionate about the Java and C# programming language, but life led me to Python. Now, I aspire to become an AI Engineer or...
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/9f2f3eb9-5ce7-415b-bc2b-b98d59a7b4b0" />
